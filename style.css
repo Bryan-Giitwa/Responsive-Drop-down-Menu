@@ -243,7 +243,7 @@ body {
   stroke: var(--white);
 }
 
-@media (max-width: 600px) {
+@media (min-width: 768px) and (max-width: 1024px) {
   .hide {
     display: none;
   }
